@@ -1,2 +1,2 @@
-# intellias-go-course
+### intellias-go-course
 Intellias Go Courses
